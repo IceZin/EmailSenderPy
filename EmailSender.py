@@ -26,7 +26,7 @@ Builder.load_string("""
         Image:
             size_hint: .5, .5
             pos_hint: {"center_x": .5, "center_y": .7}
-            source: 'Logo/pythonIMG.png'  
+            source: 'Logo/python.png'  
 
         RecycleBoxLayout:
             size_hint: .4, .2
